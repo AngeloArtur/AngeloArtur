@@ -2,7 +2,7 @@
 
 <h1>Ângelo Artur</h1>
 
-  Hey there! I'm a web developer and an engineer student. As a tech enthusiast, I'm always immersed in thrilling projects and constantly exploring various technologies. Currently I'm learning python, SQL and NoSQL database for become me a Data Enginner.
+ Hey there! I'm a web developer and an engineer student. As a tech enthusiast, I'm always immersed in thrilling projects and constantly exploring various technologies. Currently I'm learning python and SQL and NoSQL database to become a Data Enginner.
 
 ## Connect with me
 <div align="center">
